@@ -4,7 +4,7 @@
         app
         color="white"
         dark
-        min-height="200"
+        height="200"
         class="align-start pa-0 ma-0"
         hide-on-scroll
     >
